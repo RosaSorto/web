@@ -1,9 +1,15 @@
 P {
-Color: red;
-	
+Color: red;	
 }
-P {
-	font-family: Arial;
-	color: blue;
-	font-size: 24px;
+#span1
+
+{color= green ;
+font-size:15px;
+}
+
+
+span{
+	color:blue;
+	Font-family: cursive;
+	font-size: 30px
 }
