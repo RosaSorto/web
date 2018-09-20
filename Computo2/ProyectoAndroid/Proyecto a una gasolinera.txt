@@ -1,0 +1,14 @@
+Idea De Proyecto Android
+
+----Propuesta-----
+Una Gasolinera que solo vende diesel a buses  
+---------------------------------------
+
+----Solucion----
+Crear una aplicacion que permita ver
+--Nombre del Bus
+--nº de placa del bus
+--total de Galones
+--Costo de galon
+--Fecha 
+------------------------------------
