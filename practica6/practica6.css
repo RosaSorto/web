@@ -1,0 +1,27 @@
+ul{
+     list-style-type:none;
+}
+
+#all-menu {
+     width:auto;
+     height: 68px;
+     background-color:#FADBD8;
+}
+
+#menu li a{
+      font-family:verdana;
+      font-size:15px;
+      float:left;
+      padding:24px;
+      background-color:#0f71ba;
+      color: #1C2833;
+      text-decoration:none;
+      height:18px;
+}
+
+
+#menu li a:hover{
+      background-color:#E8DAEF;
+      margin-top:-2px;
+      font-weight:bold;
+}
